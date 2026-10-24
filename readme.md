@@ -23,7 +23,7 @@ AI is part of how this project is made and part of what it explores. The story i
 
 ## Listen
 
-- [Suno — (https://suno.com/album/eb8fc9a1-0bc9-4f94-9e75-7fef6cb67a80)]
+- [Suno](https://suno.com/album/eb8fc9a1-0bc9-4f94-9e75-7fef6cb67a80)
 
 ## Read
 
