@@ -23,7 +23,15 @@ AI is part of how this project is made and part of what it explores. The story i
 
 ## Listen
 
+- [Exprotoplasma.com](https://exprotoplasma.com)
 - [Suno](https://suno.com/album/eb8fc9a1-0bc9-4f94-9e75-7fef6cb67a80)
+- [SoundCloud](https://soundcloud.com/exprotoplasma)
+- [Youtube](https://www.youtube.com/@exprotoplasma)
+
+## Support
+- [Patreon](https://www.patreon.com/exprotoplasma)
+- [Boosty](https://boosty.to/exprotoplasma)
+
 
 ## Read
 
